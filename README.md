@@ -1,6 +1,5 @@
 # Hi there, I'm Guna Swaroop 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Guna+Swaroop's+Profile)
 
 ## About Me
 
