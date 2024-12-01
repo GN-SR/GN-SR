@@ -10,7 +10,7 @@
 ## Skills
 
 - **Programming Languages**:  
-  - Java (Primary)
+  - Java (Primary)  
   - Python  
   - HTML & CSS  
   - SQL  
@@ -21,8 +21,7 @@
 
 ## Let's Connect
 
-- **Email**: [gnsr16072003@gmail.com](mailto:your.email@example.com)  
-- **LinkedIn**: www.linkedin.com/in/guna-swaroop
+- **Email**: [gnsr16072003@gmail.com](mailto:gnsr16072003@gmail.com)  
+- **LinkedIn**: [www.linkedin.com/in/guna-swaroop](https://www.linkedin.com/in/guna-swaroop)
 
 ---
-
