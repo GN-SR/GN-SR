@@ -22,7 +22,7 @@
 ## Let's Connect
 
 📧 **Email**: [gnsr16072003@gmail.com](mailto:gnsr16072003@gmail.com)  
-🔗 **LinkedIn**: [www.linkedin.com/in/guna-swaroop](https://www.linkedin.com/in/guna-swaroop)
+🔗 **LinkedIn**: [in/guna-swaroop](https://www.linkedin.com/in/guna-swaroop)
 
 ---
 
